@@ -23,6 +23,9 @@ A modern desktop application for presales consultants to create and run **live c
 ## 🚀 Quick Start
 
 ## For EXE go to https://github.com/JW31254/Demo-scripter/releases/
+# If you download the pre-built Windows executable from the Releases page, the binary is code signed.
+Because this is an open-source project with a relatively small user base, Windows or your browser may initially show a security warning (“unrecognised app”). This warning will reduce over time as the application builds reputation.
+If you prefer, you can always clone the repository and build the application yourself from source.
 
 ### 1. Install dependencies
 
@@ -114,4 +117,5 @@ DemoScripter/
 ## 📄 Licence
 
 Internal tool — use freely within your organisation.
+
 
