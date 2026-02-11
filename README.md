@@ -22,6 +22,8 @@ A modern desktop application for presales consultants to create and run **live c
 
 ## 🚀 Quick Start
 
+## For EXE go to https://github.com/JW31254/Demo-scripter/releases/
+
 ### 1. Install dependencies
 
 ```bash
@@ -112,3 +114,4 @@ DemoScripter/
 ## 📄 Licence
 
 Internal tool — use freely within your organisation.
+
